@@ -1,0 +1,17 @@
+/*common css*/
+body{
+	font-family: serif;
+	font-size: 100px;
+	font-weight: 800;
+	color:#000000;
+	background:lightpink;
+}
+/*common css*/
+
+/*content start*/
+h1{
+	font-size: 100px;
+	font-weight: 800;
+	color:#000000;
+}
+/*content end*/
